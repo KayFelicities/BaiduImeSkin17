@@ -1,0 +1,5 @@
+﻿Name=KaySkin3.0_White
+Style=default
+SupportPlatform=A
+MinImeCode=1
+VersionCode=3
