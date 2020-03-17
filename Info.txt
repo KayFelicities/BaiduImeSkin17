@@ -1,4 +1,4 @@
-﻿Name=KaySkin3.1_White
+﻿Name=KaySkin3.2_White
 Style=default
 SupportPlatform=A
 MinImeCode=1
