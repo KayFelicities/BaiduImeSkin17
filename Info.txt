@@ -1,5 +1,5 @@
-﻿Name=KaySkin3.2_White
+﻿Name=KaySkin3.3_White
+Author=Kay
 Style=default
 SupportPlatform=A
-MinImeCode=1
-VersionCode=3
+MinImeCode=4.1
