@@ -1,4 +1,4 @@
-﻿Name=KaySkin3.3_White
+﻿Name=KaySkin3.5_White
 Author=Kay
 Style=default
 SupportPlatform=A
